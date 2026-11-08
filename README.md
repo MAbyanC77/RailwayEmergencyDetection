@@ -1,2 +1,2 @@
-# CSE370
-CSE370
+# RailwayEmergencyDetection
+RailwayEmergencyDetection
